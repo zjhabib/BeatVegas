@@ -1,0 +1,524 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,team_away,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral,weather_temperature,weather_wind_mph,weather_humidity,weather_detail
+9/7/17,2017,1,FALSE,New England Patriots,Kansas City Chiefs,NE,-9,48.5,Gillette Stadium,FALSE,63,7,,
+9/10/17,2017,1,FALSE,Buffalo Bills,New York Jets,BUF,-9.5,40,New Era Field,FALSE,61,5,,
+9/10/17,2017,1,FALSE,Chicago Bears,Atlanta Falcons,ATL,-7,49.5,Soldier Field,FALSE,66,9,,
+9/10/17,2017,1,FALSE,Cincinnati Bengals,Baltimore Ravens,CIN,-3,42.5,Paul Brown Stadium,FALSE,71,8,,
+9/10/17,2017,1,FALSE,Cleveland Browns,Pittsburgh Steelers,PIT,-9,47,FirstEnergy Stadium,FALSE,67,9,,
+9/10/17,2017,1,FALSE,Dallas Cowboys,New York Giants,DAL,-3.5,47.5,AT&T Stadium,FALSE,72,0,,DOME
+9/10/17,2017,1,FALSE,Detroit Lions,Arizona Cardinals,ARI,-2,48,Ford Field,FALSE,72,0,,DOME
+9/10/17,2017,1,FALSE,Green Bay Packers,Seattle Seahawks,GB,-3,50.5,Lambeau Field,FALSE,69,8,,
+9/10/17,2017,1,FALSE,Houston Texans,Jacksonville Jaguars,HOU,-5.5,39.5,NRG Stadium,FALSE,82,9,,DOME (Open Roof)
+9/10/17,2017,1,FALSE,Los Angeles Rams,Indianapolis Colts,IND,-1.5,41.5,Los Angeles Memorial Coliseum,FALSE,82,6,,
+9/10/17,2017,1,FALSE,San Francisco 49ers,Carolina Panthers,CAR,-5.5,48,Levi's Stadium,FALSE,89,4,,
+9/10/17,2017,1,FALSE,Tennessee Titans,Oakland Raiders,TEN,-2,50.5,LP Stadium,FALSE,72,6,,
+9/10/17,2017,1,FALSE,Washington Redskins,Philadelphia Eagles,PHI,-1,47.5,FedEx Field,FALSE,68,7,,
+9/11/17,2017,1,FALSE,Denver Broncos,Los Angeles Chargers,DEN,-3.5,43.5,Sports Authority Field at Mile High,FALSE,78,6,,Rain
+9/11/17,2017,1,FALSE,Minnesota Vikings,New Orleans Saints,MIN,-3.5,48,U.S. Bank Stadium,FALSE,72,0,,DOME
+9/14/17,2017,2,FALSE,Cincinnati Bengals,Houston Texans,CIN,-6.5,38,Paul Brown Stadium,FALSE,67,0,,
+9/17/17,2017,2,FALSE,Atlanta Falcons,Green Bay Packers,ATL,-2.5,41,Georgia Dome,FALSE,72,0,,DOME
+9/17/17,2017,2,FALSE,Baltimore Ravens,Cleveland Browns,BAL,-7.5,40,M&T Bank Stadium,FALSE,78,2,,
+9/17/17,2017,2,FALSE,Carolina Panthers,Buffalo Bills,CAR,-7,42.5,Bank of America Stadium,FALSE,81,4,,
+9/17/17,2017,2,FALSE,Denver Broncos,Dallas Cowboys,DAL,-2,42,Sports Authority Field at Mile High,FALSE,75,4,,
+9/17/17,2017,2,FALSE,Indianapolis Colts,Arizona Cardinals,ARI,-7.5,44.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+9/17/17,2017,2,FALSE,Jacksonville Jaguars,Tennessee Titans,TEN,-1.5,43.5,EverBank Field,FALSE,86,9,,
+9/17/17,2017,2,FALSE,Kansas City Chiefs,Philadelphia Eagles,KC,-4.5,47.5,Arrowhead Stadium,FALSE,66,6,,
+9/17/17,2017,2,FALSE,Los Angeles Chargers,Miami Dolphins,LAC,-4.5,45,StubHub Center,FALSE,73,7,,
+9/17/17,2017,2,FALSE,Los Angeles Rams,Washington Redskins,LAR,-2.5,46,Los Angeles Memorial Coliseum,FALSE,74,7,,
+9/17/17,2017,2,FALSE,New Orleans Saints,New England Patriots,NE,-7,55,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+9/17/17,2017,2,FALSE,Oakland Raiders,New York Jets,OAK,-14,43.5,Oakland Coliseum,FALSE,69,6,,
+9/17/17,2017,2,FALSE,Pittsburgh Steelers,Minnesota Vikings,PIT,-6,45.5,Heinz Field,FALSE,79,1,,
+9/17/17,2017,2,FALSE,Seattle Seahawks,San Francisco 49ers,SEA,-13.5,42.5,CenturyLink Field,FALSE,65,11,,
+9/17/17,2017,2,FALSE,Tampa Bay Buccaneers,Chicago Bears,TB,-7,43,Raymond James Stadium,FALSE,88,7,,
+9/18/17,2017,2,FALSE,New York Giants,Detroit Lions,NYG,-3.5,43.5,MetLife Stadium,FALSE,72,7,,
+9/21/17,2017,3,FALSE,San Francisco 49ers,Los Angeles Rams,LAR,-2,40.5,Levi's Stadium,FALSE,65,11,,
+9/24/17,2017,3,FALSE,Buffalo Bills,Denver Broncos,DEN,-3,40,New Era Field,FALSE,79,3,,
+9/24/17,2017,3,FALSE,Carolina Panthers,New Orleans Saints,CAR,-5,46.5,Bank of America Stadium,FALSE,83,6,,
+9/24/17,2017,3,FALSE,Chicago Bears,Pittsburgh Steelers,PIT,-7,43.5,Soldier Field,FALSE,82,4,,
+9/24/17,2017,3,FALSE,Detroit Lions,Atlanta Falcons,ATL,-3,51,Ford Field,FALSE,72,0,,DOME
+9/24/17,2017,3,FALSE,Green Bay Packers,Cincinnati Bengals,GB,-9,47.5,Lambeau Field,FALSE,85,9,,
+9/24/17,2017,3,FALSE,Indianapolis Colts,Cleveland Browns,CLE,-1,42,Lucas Oil Stadium,FALSE,72,0,,DOME
+9/24/17,2017,3,FALSE,Jacksonville Jaguars,Baltimore Ravens,BAL,-4,38,Wembley Stadium,TRUE,57,4,,
+9/24/17,2017,3,FALSE,Los Angeles Chargers,Kansas City Chiefs,KC,-3,47.5,StubHub Center,FALSE,80,5,,
+9/24/17,2017,3,FALSE,Minnesota Vikings,Tampa Bay Buccaneers,TB,-1.5,41,U.S. Bank Stadium,FALSE,72,0,,DOME
+9/24/17,2017,3,FALSE,New England Patriots,Houston Texans,NE,-13,44.5,Gillette Stadium,FALSE,76,8,,
+9/24/17,2017,3,FALSE,New York Jets,Miami Dolphins,MIA,-5.5,43,MetLife Stadium,FALSE,84,7,,
+9/24/17,2017,3,FALSE,Philadelphia Eagles,New York Giants,PHI,-6,43,Lincoln Financial Field,FALSE,83,7,,
+9/24/17,2017,3,FALSE,Tennessee Titans,Seattle Seahawks,TEN,-3,42,LP Stadium,FALSE,89,4,,
+9/24/17,2017,3,FALSE,Washington Redskins,Oakland Raiders,OAK,-3,53.5,FedEx Field,FALSE,77,4,,
+9/25/17,2017,3,FALSE,Arizona Cardinals,Dallas Cowboys,DAL,-3,46.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+9/28/17,2017,4,FALSE,Green Bay Packers,Chicago Bears,GB,-7.5,44.5,Lambeau Field,FALSE,59,8,,
+10/1/17,2017,4,FALSE,Arizona Cardinals,San Francisco 49ers,ARI,-6.5,44.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+10/1/17,2017,4,FALSE,Atlanta Falcons,Buffalo Bills,ATL,-8,48.5,Georgia Dome,FALSE,72,0,,DOME
+10/1/17,2017,4,FALSE,Baltimore Ravens,Pittsburgh Steelers,PIT,-3,42,M&T Bank Stadium,FALSE,69,5,,
+10/1/17,2017,4,FALSE,Cleveland Browns,Cincinnati Bengals,CIN,-3,41.5,FirstEnergy Stadium,FALSE,67,5,,
+10/1/17,2017,4,FALSE,Dallas Cowboys,Los Angeles Rams,DAL,-6,48.5,AT&T Stadium,FALSE,72,0,,DOME
+10/1/17,2017,4,FALSE,Denver Broncos,Oakland Raiders,DEN,-3,46,Sports Authority Field at Mile High,FALSE,71,7,,
+10/1/17,2017,4,FALSE,Houston Texans,Tennessee Titans,TEN,-2,43.5,NRG Stadium,FALSE,72,0,,DOME
+10/1/17,2017,4,FALSE,Los Angeles Chargers,Philadelphia Eagles,LAC,-1,47.5,StubHub Center,FALSE,84,7,,
+10/1/17,2017,4,FALSE,Miami Dolphins,New Orleans Saints,NO,-3,50.5,Wembley Stadium,TRUE,85,9,,
+10/1/17,2017,4,FALSE,Minnesota Vikings,Detroit Lions,MIN,-2,42.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+10/1/17,2017,4,FALSE,New England Patriots,Carolina Panthers,NE,-9,49,Gillette Stadium,FALSE,67,5,,
+10/1/17,2017,4,FALSE,New York Jets,Jacksonville Jaguars,JAX,-3,38,MetLife Stadium,FALSE,70,3,,
+10/1/17,2017,4,FALSE,Seattle Seahawks,Indianapolis Colts,SEA,-13,41.5,CenturyLink Field,FALSE,52,3,,
+10/1/17,2017,4,FALSE,Tampa Bay Buccaneers,New York Giants,TB,-3,44.5,Raymond James Stadium,FALSE,82,11,,Rain
+10/2/17,2017,4,FALSE,Kansas City Chiefs,Washington Redskins,KC,-7,49.5,Arrowhead Stadium,FALSE,77,13,,
+10/5/17,2017,5,FALSE,Tampa Bay Buccaneers,New England Patriots,NE,-5,55.5,Raymond James Stadium,FALSE,76,9,,Rain
+10/8/17,2017,5,FALSE,Cincinnati Bengals,Buffalo Bills,CIN,-3,39,Paul Brown Stadium,FALSE,66,5,,Rain
+10/8/17,2017,5,FALSE,Cleveland Browns,New York Jets,NYJ,-1.5,41.5,FirstEnergy Stadium,FALSE,69,6,,
+10/8/17,2017,5,FALSE,Dallas Cowboys,Green Bay Packers,DAL,-2,52.5,AT&T Stadium,FALSE,72,0,,DOME
+10/8/17,2017,5,FALSE,Detroit Lions,Carolina Panthers,DET,-2.5,43.5,Ford Field,FALSE,72,0,,DOME
+10/8/17,2017,5,FALSE,Houston Texans,Kansas City Chiefs,KC,-1,46.5,NRG Stadium,FALSE,72,0,,DOME
+10/8/17,2017,5,FALSE,Indianapolis Colts,San Francisco 49ers,IND,-1.5,44,Lucas Oil Stadium,FALSE,72,0,,DOME
+10/8/17,2017,5,FALSE,Los Angeles Rams,Seattle Seahawks,LAR,-1,47.5,Los Angeles Memorial Coliseum,FALSE,75,6,,
+10/8/17,2017,5,FALSE,Miami Dolphins,Tennessee Titans,TEN,-3,43.5,Hard Rock Stadium,FALSE,89,8,,
+10/8/17,2017,5,FALSE,New York Giants,Los Angeles Chargers,NYG,-3.5,44.5,MetLife Stadium,FALSE,75,10,,
+10/8/17,2017,5,FALSE,Oakland Raiders,Baltimore Ravens,OAK,-2.5,39,Oakland Coliseum,FALSE,74,9,,
+10/8/17,2017,5,FALSE,Philadelphia Eagles,Arizona Cardinals,PHI,-6.5,45,Lincoln Financial Field,FALSE,75,11,,
+10/8/17,2017,5,FALSE,Pittsburgh Steelers,Jacksonville Jaguars,PIT,-8.5,43.5,Heinz Field,FALSE,70,5,,
+10/9/17,2017,5,FALSE,Chicago Bears,Minnesota Vikings,MIN,-3,40,Soldier Field,FALSE,65,8,,
+10/12/17,2017,6,FALSE,Carolina Panthers,Philadelphia Eagles,CAR,-3,45.5,Bank of America Stadium,FALSE,73,5,,
+10/15/17,2017,6,FALSE,Arizona Cardinals,Tampa Bay Buccaneers,TB,-1.5,46,University of Phoenix Stadium,FALSE,72,0,,DOME
+10/15/17,2017,6,FALSE,Atlanta Falcons,Miami Dolphins,ATL,-13.5,45.5,Georgia Dome,FALSE,72,0,,DOME
+10/15/17,2017,6,FALSE,Baltimore Ravens,Chicago Bears,BAL,-6.5,38.5,M&T Bank Stadium,FALSE,73,10,,
+10/15/17,2017,6,FALSE,Denver Broncos,New York Giants,DEN,-12,39,Sports Authority Field at Mile High,FALSE,60,4,,
+10/15/17,2017,6,FALSE,Houston Texans,Cleveland Browns,HOU,-9.5,47,NRG Stadium,FALSE,72,0,,DOME
+10/15/17,2017,6,FALSE,Jacksonville Jaguars,Los Angeles Rams,JAX,-2.5,42.5,EverBank Field,FALSE,83,8,,
+10/15/17,2017,6,FALSE,Kansas City Chiefs,Pittsburgh Steelers,KC,-3.5,47,Arrowhead Stadium,FALSE,59,11,,
+10/15/17,2017,6,FALSE,Minnesota Vikings,Green Bay Packers,GB,-3,44.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+10/15/17,2017,6,FALSE,New Orleans Saints,Detroit Lions,NO,-4,49.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+10/15/17,2017,6,FALSE,New York Jets,New England Patriots,NE,-9,48.5,MetLife Stadium,FALSE,73,13,,
+10/15/17,2017,6,FALSE,Oakland Raiders,Los Angeles Chargers,OAK,-3,48.5,Oakland Coliseum,FALSE,76,9,,
+10/15/17,2017,6,FALSE,Washington Redskins,San Francisco 49ers,WAS,-12,46,FedEx Field,FALSE,71,10,,
+10/16/17,2017,6,FALSE,Tennessee Titans,Indianapolis Colts,TEN,-7,46,LP Stadium,FALSE,55,6,,
+10/19/17,2017,7,FALSE,Oakland Raiders,Kansas City Chiefs,KC,-3,46.5,Oakland Coliseum,FALSE,61,4,,
+10/22/17,2017,7,FALSE,Buffalo Bills,Tampa Bay Buccaneers,BUF,-3,45.5,New Era Field,FALSE,71,5,,
+10/22/17,2017,7,FALSE,Chicago Bears,Carolina Panthers,CAR,-3,40,Soldier Field,FALSE,68,11,,
+10/22/17,2017,7,FALSE,Cleveland Browns,Tennessee Titans,TEN,-5.5,42.5,FirstEnergy Stadium,FALSE,72,7,,
+10/22/17,2017,7,FALSE,Green Bay Packers,New Orleans Saints,NO,-3.5,46,Lambeau Field,FALSE,54,15,,Rain
+10/22/17,2017,7,FALSE,Indianapolis Colts,Jacksonville Jaguars,JAX,-3,41.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+10/22/17,2017,7,FALSE,Los Angeles Chargers,Denver Broncos,DEN,-1.5,41,StubHub Center,FALSE,83,3,,
+10/22/17,2017,7,FALSE,Los Angeles Rams,Arizona Cardinals,LAR,-3,46,Twickenham Stadium,TRUE,52,9,,
+10/22/17,2017,7,FALSE,Miami Dolphins,New York Jets,MIA,-3,39.5,Hard Rock Stadium,FALSE,84,12,,
+10/22/17,2017,7,FALSE,Minnesota Vikings,Baltimore Ravens,MIN,-4,38,U.S. Bank Stadium,FALSE,72,0,,DOME
+10/22/17,2017,7,FALSE,New England Patriots,Atlanta Falcons,NE,-3,56.5,Gillette Stadium,FALSE,55,3,,
+10/22/17,2017,7,FALSE,New York Giants,Seattle Seahawks,SEA,-3.5,39,MetLife Stadium,FALSE,74,7,,
+10/22/17,2017,7,FALSE,Pittsburgh Steelers,Cincinnati Bengals,PIT,-4,40,Heinz Field,FALSE,74,4,,
+10/22/17,2017,7,FALSE,San Francisco 49ers,Dallas Cowboys,DAL,-6.5,48.5,Levi's Stadium,FALSE,68,7,,
+10/23/17,2017,7,FALSE,Philadelphia Eagles,Washington Redskins,PHI,-4.5,49,Lincoln Financial Field,FALSE,67,12,,
+10/26/17,2017,8,FALSE,Baltimore Ravens,Miami Dolphins,BAL,-3,37.5,M&T Bank Stadium,FALSE,48,0,,
+10/29/17,2017,8,FALSE,Buffalo Bills,Oakland Raiders,BUF,-2.5,45.5,New Era Field,FALSE,43,5,,
+10/29/17,2017,8,FALSE,Cincinnati Bengals,Indianapolis Colts,CIN,-11,41.5,Paul Brown Stadium,FALSE,44,6,,
+10/29/17,2017,8,FALSE,Cleveland Browns,Minnesota Vikings,MIN,-9.5,38,Twickenham Stadium,TRUE,53,10,,
+10/29/17,2017,8,FALSE,Detroit Lions,Pittsburgh Steelers,PIT,-3,45.5,Ford Field,FALSE,72,0,,DOME
+10/29/17,2017,8,FALSE,New England Patriots,Los Angeles Chargers,NE,-7,48.5,Gillette Stadium,FALSE,64,13,,
+10/29/17,2017,8,FALSE,New Orleans Saints,Chicago Bears,NO,-9,47.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+10/29/17,2017,8,FALSE,New York Jets,Atlanta Falcons,ATL,-4.5,46,MetLife Stadium,FALSE,69,12,,Rain
+10/29/17,2017,8,FALSE,Philadelphia Eagles,San Francisco 49ers,PHI,-13,46,Lincoln Financial Field,FALSE,64,9,,Rain
+10/29/17,2017,8,FALSE,Seattle Seahawks,Houston Texans,SEA,-5.5,46,CenturyLink Field,FALSE,59,7,,
+10/29/17,2017,8,FALSE,Tampa Bay Buccaneers,Carolina Panthers,TB,-2,46,Raymond James Stadium,FALSE,68,18,,
+10/29/17,2017,8,FALSE,Washington Redskins,Dallas Cowboys,DAL,-2,50,FedEx Field,FALSE,49,12,,Rain
+10/30/17,2017,8,FALSE,Kansas City Chiefs,Denver Broncos,KC,-7,43,Arrowhead Stadium,FALSE,45,7,,
+11/2/17,2017,9,FALSE,New York Jets,Buffalo Bills,BUF,-3,43,MetLife Stadium,FALSE,68,11,,
+11/5/17,2017,9,FALSE,Carolina Panthers,Atlanta Falcons,ATL,-3,42,Bank of America Stadium,FALSE,61,4,,
+11/5/17,2017,9,FALSE,Dallas Cowboys,Kansas City Chiefs,DAL,-2.5,53,AT&T Stadium,FALSE,72,0,,DOME
+11/5/17,2017,9,FALSE,Houston Texans,Indianapolis Colts,HOU,-6,45,NRG Stadium,FALSE,72,0,,DOME
+11/5/17,2017,9,FALSE,Jacksonville Jaguars,Cincinnati Bengals,JAX,-6,38,EverBank Field,FALSE,78,12,,
+11/5/17,2017,9,FALSE,Miami Dolphins,Oakland Raiders,OAK,-3,44.5,Hard Rock Stadium,FALSE,77,2,,
+11/5/17,2017,9,FALSE,New Orleans Saints,Tampa Bay Buccaneers,NO,-7,54,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+11/5/17,2017,9,FALSE,New York Giants,Los Angeles Rams,LAR,-5.5,42.5,MetLife Stadium,FALSE,56,6,,
+11/5/17,2017,9,FALSE,Philadelphia Eagles,Denver Broncos,PHI,-7,41,Lincoln Financial Field,FALSE,61,5,,
+11/5/17,2017,9,FALSE,San Francisco 49ers,Arizona Cardinals,ARI,-2,39,Levi's Stadium,FALSE,61,8,,
+11/5/17,2017,9,FALSE,Seattle Seahawks,Washington Redskins,SEA,-8,44.5,CenturyLink Field,FALSE,36,11,,Rain
+11/5/17,2017,9,FALSE,Tennessee Titans,Baltimore Ravens,TEN,-3,41,LP Stadium,FALSE,75,10,,
+11/6/17,2017,9,FALSE,Green Bay Packers,Detroit Lions,DET,-2.5,42.5,Lambeau Field,FALSE,35,3,,
+11/9/17,2017,10,FALSE,Arizona Cardinals,Seattle Seahawks,SEA,-6,40,University of Phoenix Stadium,FALSE,72,0,,DOME
+11/12/17,2017,10,FALSE,Atlanta Falcons,Dallas Cowboys,ATL,-3.5,49,Georgia Dome,FALSE,72,0,,DOME
+11/12/17,2017,10,FALSE,Buffalo Bills,New Orleans Saints,NO,-2,48.5,New Era Field,FALSE,42,2,,
+11/12/17,2017,10,FALSE,Chicago Bears,Green Bay Packers,CHI,-4.5,37.5,Soldier Field,FALSE,40,6,,Rain
+11/12/17,2017,10,FALSE,Denver Broncos,New England Patriots,NE,-7,45,Sports Authority Field at Mile High,FALSE,48,5,,
+11/12/17,2017,10,FALSE,Detroit Lions,Cleveland Browns,DET,-10.5,42.5,Ford Field,FALSE,72,0,,DOME
+11/12/17,2017,10,FALSE,Indianapolis Colts,Pittsburgh Steelers,PIT,-10.5,47,Lucas Oil Stadium,FALSE,72,0,,DOME
+11/12/17,2017,10,FALSE,Jacksonville Jaguars,Los Angeles Chargers,JAX,-5,40.5,EverBank Field,FALSE,76,5,,
+11/12/17,2017,10,FALSE,Los Angeles Rams,Houston Texans,LAR,-12,45,Los Angeles Memorial Coliseum,FALSE,68,0,,
+11/12/17,2017,10,FALSE,San Francisco 49ers,New York Giants,NYG,-3,41.5,Levi's Stadium,FALSE,68,5,,
+11/12/17,2017,10,FALSE,Tampa Bay Buccaneers,New York Jets,TB,-1,44.5,Raymond James Stadium,FALSE,79,16,,
+11/12/17,2017,10,FALSE,Tennessee Titans,Cincinnati Bengals,TEN,-4.5,40.5,LP Stadium,FALSE,53,4,,
+11/12/17,2017,10,FALSE,Washington Redskins,Minnesota Vikings,MIN,-1,43,FedEx Field,FALSE,44,4,,
+11/13/17,2017,10,FALSE,Carolina Panthers,Miami Dolphins,CAR,-8,38.5,Bank of America Stadium,FALSE,49,6,,
+11/16/17,2017,11,FALSE,Pittsburgh Steelers,Tennessee Titans,PIT,-7,44.5,Heinz Field,FALSE,37,2,,
+11/19/17,2017,11,FALSE,Chicago Bears,Detroit Lions,DET,-3,41,Soldier Field,FALSE,29,15,,
+11/19/17,2017,11,FALSE,Cleveland Browns,Jacksonville Jaguars,JAX,-7.5,37.5,FirstEnergy Stadium,FALSE,38,19,,Rain
+11/19/17,2017,11,FALSE,Dallas Cowboys,Philadelphia Eagles,PHI,-6,48,AT&T Stadium,FALSE,72,0,,DOME
+11/19/17,2017,11,FALSE,Denver Broncos,Cincinnati Bengals,DEN,-2.5,38,Sports Authority Field at Mile High,FALSE,53,3,,
+11/19/17,2017,11,FALSE,Green Bay Packers,Baltimore Ravens,BAL,-2,38,Lambeau Field,FALSE,27,15,,
+11/19/17,2017,11,FALSE,Houston Texans,Arizona Cardinals,HOU,-2,37.5,NRG Stadium,FALSE,72,0,,DOME
+11/19/17,2017,11,FALSE,Los Angeles Chargers,Buffalo Bills,LAC,-6.5,41,StubHub Center,FALSE,71,3,,
+11/19/17,2017,11,FALSE,Miami Dolphins,Tampa Bay Buccaneers,TB,-1,42,Hard Rock Stadium,FALSE,77,5,,
+11/19/17,2017,11,FALSE,Minnesota Vikings,Los Angeles Rams,MIN,-2.5,45.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+11/19/17,2017,11,FALSE,New Orleans Saints,Washington Redskins,NO,-7.5,52.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+11/19/17,2017,11,FALSE,New York Giants,Kansas City Chiefs,KC,-10,45.5,MetLife Stadium,FALSE,49,18,,
+11/19/17,2017,11,FALSE,Oakland Raiders,New England Patriots,NE,-7,54.5,Estadio Azteca,TRUE,69,7,,
+11/20/17,2017,11,FALSE,Seattle Seahawks,Atlanta Falcons,SEA,-2,45.5,CenturyLink Field,FALSE,48,2,,
+11/23/17,2017,12,FALSE,Dallas Cowboys,Los Angeles Chargers,LAC,-1,48,AT&T Stadium,FALSE,72,0,,DOME
+11/23/17,2017,12,FALSE,Detroit Lions,Minnesota Vikings,MIN,-3,44.5,Ford Field,FALSE,72,0,,DOME
+11/23/17,2017,12,FALSE,Washington Redskins,New York Giants,WAS,-7.5,45,FedEx Field,FALSE,33,0,,
+11/26/17,2017,12,FALSE,Arizona Cardinals,Jacksonville Jaguars,JAX,-5,38,University of Phoenix Stadium,FALSE,72,0,,DOME
+11/26/17,2017,12,FALSE,Atlanta Falcons,Tampa Bay Buccaneers,ATL,-10,48.5,Georgia Dome,FALSE,72,0,,DOME
+11/26/17,2017,12,FALSE,Cincinnati Bengals,Cleveland Browns,CIN,-8,38,Paul Brown Stadium,FALSE,46,3,,
+11/26/17,2017,12,FALSE,Indianapolis Colts,Tennessee Titans,TEN,-3.5,44,Lucas Oil Stadium,FALSE,72,0,,DOME
+11/26/17,2017,12,FALSE,Kansas City Chiefs,Buffalo Bills,KC,-10,46,Arrowhead Stadium,FALSE,62,9,,
+11/26/17,2017,12,FALSE,Los Angeles Rams,New Orleans Saints,LAR,-2.5,53.5,Los Angeles Memorial Coliseum,FALSE,72,1,,
+11/26/17,2017,12,FALSE,New England Patriots,Miami Dolphins,NE,-16.5,47.5,Gillette Stadium,FALSE,47,17,,
+11/26/17,2017,12,FALSE,New York Jets,Carolina Panthers,CAR,-5,40,MetLife Stadium,FALSE,47,23,,
+11/26/17,2017,12,FALSE,Oakland Raiders,Denver Broncos,OAK,-5,43.5,Oakland Coliseum,FALSE,61,13,,
+11/26/17,2017,12,FALSE,Philadelphia Eagles,Chicago Bears,PHI,-13.5,44,Lincoln Financial Field,FALSE,49,17,,
+11/26/17,2017,12,FALSE,Pittsburgh Steelers,Green Bay Packers,PIT,-14,41.5,Heinz Field,FALSE,38,7,,
+11/26/17,2017,12,FALSE,San Francisco 49ers,Seattle Seahawks,SEA,-7,43,Levi's Stadium,FALSE,66,12,,
+11/27/17,2017,12,FALSE,Baltimore Ravens,Houston Texans,BAL,-7,38,M&T Bank Stadium,FALSE,50,1,,
+11/30/17,2017,13,FALSE,Dallas Cowboys,Washington Redskins,WAS,-2,47,AT&T Stadium,FALSE,72,0,,DOME
+12/3/17,2017,13,FALSE,Arizona Cardinals,Los Angeles Rams,LAR,-7,44.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+12/3/17,2017,13,FALSE,Atlanta Falcons,Minnesota Vikings,ATL,-3,47,Georgia Dome,FALSE,72,0,,DOME
+12/3/17,2017,13,FALSE,Baltimore Ravens,Detroit Lions,BAL,-3,43.5,M&T Bank Stadium,FALSE,53,4,,
+12/3/17,2017,13,FALSE,Buffalo Bills,New England Patriots,NE,-9,48,New Era Field,FALSE,48,13,,
+12/3/17,2017,13,FALSE,Chicago Bears,San Francisco 49ers,CHI,-3,41,Soldier Field,FALSE,54,6,,
+12/3/17,2017,13,FALSE,Green Bay Packers,Tampa Bay Buccaneers,GB,-2,45,Lambeau Field,FALSE,42,8,,
+12/3/17,2017,13,FALSE,Jacksonville Jaguars,Indianapolis Colts,JAX,-9.5,41,EverBank Field,FALSE,70,7,,
+12/3/17,2017,13,FALSE,Los Angeles Chargers,Cleveland Browns,LAC,-13.5,43.5,StubHub Center,FALSE,68,7,,
+12/3/17,2017,13,FALSE,Miami Dolphins,Denver Broncos,DEN,-1.5,39.5,Hard Rock Stadium,FALSE,80,11,,
+12/3/17,2017,13,FALSE,New Orleans Saints,Carolina Panthers,NO,-4.5,48,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+12/3/17,2017,13,FALSE,New York Jets,Kansas City Chiefs,KC,-3,43.5,MetLife Stadium,FALSE,48,0,,
+12/3/17,2017,13,FALSE,Oakland Raiders,New York Giants,OAK,-9,41.5,Oakland Coliseum,FALSE,58,11,,
+12/3/17,2017,13,FALSE,Seattle Seahawks,Philadelphia Eagles,PHI,-5.5,47.5,CenturyLink Field,FALSE,44,3,,
+12/3/17,2017,13,FALSE,Tennessee Titans,Houston Texans,TEN,-6.5,43,LP Stadium,FALSE,60,4,,
+12/4/17,2017,13,FALSE,Cincinnati Bengals,Pittsburgh Steelers,PIT,-4.5,43.5,Paul Brown Stadium,FALSE,61,9,,
+12/7/17,2017,14,FALSE,Atlanta Falcons,New Orleans Saints,ATL,-2.5,51.5,Georgia Dome,FALSE,72,0,,DOME
+12/10/17,2017,14,FALSE,Arizona Cardinals,Tennessee Titans,TEN,-2.5,42,University of Phoenix Stadium,FALSE,72,0,,DOME
+12/10/17,2017,14,FALSE,Buffalo Bills,Indianapolis Colts,BUF,-3.5,36.5,New Era Field,FALSE,32,15,,Snow
+12/10/17,2017,14,FALSE,Carolina Panthers,Minnesota Vikings,MIN,-2.5,40.5,Bank of America Stadium,FALSE,41,5,,
+12/10/17,2017,14,FALSE,Cincinnati Bengals,Chicago Bears,CIN,-6,40.5,Paul Brown Stadium,FALSE,31,11,,
+12/10/17,2017,14,FALSE,Cleveland Browns,Green Bay Packers,GB,-2.5,38.5,FirstEnergy Stadium,FALSE,29,24,,
+12/10/17,2017,14,FALSE,Denver Broncos,New York Jets,NYJ,-1,40.5,Sports Authority Field at Mile High,FALSE,60,3,,
+12/10/17,2017,14,FALSE,Houston Texans,San Francisco 49ers,HOU,-1,45.5,NRG Stadium,FALSE,72,0,,DOME
+12/10/17,2017,14,FALSE,Jacksonville Jaguars,Seattle Seahawks,JAX,-3,40,EverBank Field,FALSE,46,2,,
+12/10/17,2017,14,FALSE,Kansas City Chiefs,Oakland Raiders,KC,-4.5,48.5,Arrowhead Stadium,FALSE,46,13,,
+12/10/17,2017,14,FALSE,Los Angeles Chargers,Washington Redskins,LAC,-6,46.5,StubHub Center,FALSE,81,4,,
+12/10/17,2017,14,FALSE,Los Angeles Rams,Philadelphia Eagles,LAR,-1,47.5,Los Angeles Memorial Coliseum,FALSE,83,0,,
+12/10/17,2017,14,FALSE,New York Giants,Dallas Cowboys,DAL,-4,42,MetLife Stadium,FALSE,39,11,,
+12/10/17,2017,14,FALSE,Pittsburgh Steelers,Baltimore Ravens,PIT,-6,43,Heinz Field,FALSE,33,12,,
+12/10/17,2017,14,FALSE,Tampa Bay Buccaneers,Detroit Lions,PICK,0,47.5,Raymond James Stadium,FALSE,55,9,,
+12/11/17,2017,14,FALSE,Miami Dolphins,New England Patriots,NE,-10.5,48,Hard Rock Stadium,FALSE,55,7,,
+12/14/17,2017,15,FALSE,Indianapolis Colts,Denver Broncos,DEN,-3,40.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+12/16/17,2017,15,FALSE,Detroit Lions,Chicago Bears,DET,-5,43.5,Ford Field,FALSE,72,0,,DOME
+12/16/17,2017,15,FALSE,Kansas City Chiefs,Los Angeles Chargers,LAC,-1,47,Arrowhead Stadium,FALSE,53,9,,
+12/17/17,2017,15,FALSE,Buffalo Bills,Miami Dolphins,BUF,-3.5,39.5,New Era Field,FALSE,22,8,,
+12/17/17,2017,15,FALSE,Carolina Panthers,Green Bay Packers,CAR,-3,46.5,Bank of America Stadium,FALSE,51,5,,
+12/17/17,2017,15,FALSE,Cleveland Browns,Baltimore Ravens,BAL,-6.5,42,FirstEnergy Stadium,FALSE,36,0,,
+12/17/17,2017,15,FALSE,Jacksonville Jaguars,Houston Texans,JAX,-10.5,39,EverBank Field,FALSE,72,5,,
+12/17/17,2017,15,FALSE,Minnesota Vikings,Cincinnati Bengals,MIN,-12.5,42.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+12/17/17,2017,15,FALSE,New Orleans Saints,New York Jets,NO,-16.5,47,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+12/17/17,2017,15,FALSE,New York Giants,Philadelphia Eagles,PHI,-7.5,40,MetLife Stadium,FALSE,35,0,,
+12/17/17,2017,15,FALSE,Oakland Raiders,Dallas Cowboys,DAL,-3,46,Oakland Coliseum,FALSE,57,4,,
+12/17/17,2017,15,FALSE,Pittsburgh Steelers,New England Patriots,NE,-2.5,52.5,Heinz Field,FALSE,42,4,,Rain
+12/17/17,2017,15,FALSE,San Francisco 49ers,Tennessee Titans,SF,-2.5,44.5,Levi's Stadium,FALSE,65,17,,
+12/17/17,2017,15,FALSE,Seattle Seahawks,Los Angeles Rams,LAR,-1,47.5,CenturyLink Field,FALSE,47,15,,
+12/17/17,2017,15,FALSE,Washington Redskins,Arizona Cardinals,WAS,-4,40,FedEx Field,FALSE,50,1,,
+12/18/17,2017,15,FALSE,Tampa Bay Buccaneers,Atlanta Falcons,ATL,-7,49.5,Raymond James Stadium,FALSE,71,2,,
+12/23/17,2017,16,FALSE,Baltimore Ravens,Indianapolis Colts,BAL,-13.5,41,M&T Bank Stadium,FALSE,63,14,,
+12/23/17,2017,16,FALSE,Green Bay Packers,Minnesota Vikings,MIN,-8.5,41,Lambeau Field,FALSE,10,6,,
+12/24/17,2017,16,FALSE,Arizona Cardinals,New York Giants,ARI,-3,39,University of Phoenix Stadium,FALSE,72,0,,DOME
+12/24/17,2017,16,FALSE,Carolina Panthers,Tampa Bay Buccaneers,CAR,-10,46.5,Bank of America Stadium,FALSE,55,6,,
+12/24/17,2017,16,FALSE,Chicago Bears,Cleveland Browns,CHI,-5.5,37,Soldier Field,FALSE,24,8,,
+12/24/17,2017,16,FALSE,Cincinnati Bengals,Detroit Lions,DET,-3.5,43.5,Paul Brown Stadium,FALSE,35,2,,
+12/24/17,2017,16,FALSE,Dallas Cowboys,Seattle Seahawks,DAL,-4.5,47,AT&T Stadium,FALSE,72,0,,DOME
+12/24/17,2017,16,FALSE,Kansas City Chiefs,Miami Dolphins,KC,-11,43.5,Arrowhead Stadium,FALSE,23,15,,
+12/24/17,2017,16,FALSE,New England Patriots,Buffalo Bills,NE,-11,47.5,Gillette Stadium,FALSE,35,7,,
+12/24/17,2017,16,FALSE,New Orleans Saints,Atlanta Falcons,NO,-5.5,52,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+12/24/17,2017,16,FALSE,New York Jets,Los Angeles Chargers,LAC,-7.5,42.5,MetLife Stadium,FALSE,40,6,,
+12/24/17,2017,16,FALSE,San Francisco 49ers,Jacksonville Jaguars,JAX,-4,43,Levi's Stadium,FALSE,52,0,,
+12/24/17,2017,16,FALSE,Tennessee Titans,Los Angeles Rams,LAR,-5.5,46,LP Stadium,FALSE,39,11,,
+12/24/17,2017,16,FALSE,Washington Redskins,Denver Broncos,WAS,-3,39.5,FedEx Field,FALSE,43,7,,
+12/25/17,2017,16,FALSE,Houston Texans,Pittsburgh Steelers,PIT,-8,45.5,NRG Stadium,FALSE,72,0,,DOME
+12/25/17,2017,16,FALSE,Philadelphia Eagles,Oakland Raiders,PHI,-10,46,Lincoln Financial Field,FALSE,29,15,,
+12/31/17,2017,17,FALSE,Atlanta Falcons,Carolina Panthers,ATL,-5,44.5,Georgia Dome,FALSE,72,0,,DOME
+12/31/17,2017,17,FALSE,Baltimore Ravens,Cincinnati Bengals,BAL,-8,40,M&T Bank Stadium,FALSE,19,12,,
+12/31/17,2017,17,FALSE,Denver Broncos,Kansas City Chiefs,DEN,-3,37.5,Sports Authority Field at Mile High,FALSE,17,4,,
+12/31/17,2017,17,FALSE,Detroit Lions,Green Bay Packers,DET,-7.5,44.5,Ford Field,FALSE,72,0,,DOME
+12/31/17,2017,17,FALSE,Indianapolis Colts,Houston Texans,IND,-5.5,41.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+12/31/17,2017,17,FALSE,Los Angeles Chargers,Oakland Raiders,LAC,-7,43,StubHub Center,FALSE,62,2,,
+12/31/17,2017,17,FALSE,Los Angeles Rams,San Francisco 49ers,SF,-6,44.5,Los Angeles Memorial Coliseum,FALSE,67,3,,
+12/31/17,2017,17,FALSE,Miami Dolphins,Buffalo Bills,BUF,-2.5,41.5,Hard Rock Stadium,FALSE,71,9,,
+12/31/17,2017,17,FALSE,Minnesota Vikings,Chicago Bears,MIN,-13.5,38.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+12/31/17,2017,17,FALSE,New England Patriots,New York Jets,NE,-17,43.5,Gillette Stadium,FALSE,13,14,,
+12/31/17,2017,17,FALSE,New York Giants,Washington Redskins,WAS,-4.5,41,MetLife Stadium,FALSE,16,16,,
+12/31/17,2017,17,FALSE,Philadelphia Eagles,Dallas Cowboys,DAL,-3.5,41,Lincoln Financial Field,FALSE,19,17,,
+12/31/17,2017,17,FALSE,Pittsburgh Steelers,Cleveland Browns,PIT,-5,38.5,Heinz Field,FALSE,11,3,,
+12/31/17,2017,17,FALSE,Seattle Seahawks,Arizona Cardinals,SEA,-8,38,CenturyLink Field,FALSE,40,7,,
+12/31/17,2017,17,FALSE,Tampa Bay Buccaneers,New Orleans Saints,NO,-6,49,Raymond James Stadium,FALSE,71,3,,
+12/31/17,2017,17,FALSE,Tennessee Titans,Jacksonville Jaguars,TEN,-2.5,40,LP Stadium,FALSE,23,5,,
+1/6/18,2017,Wildcard,TRUE,Kansas City Chiefs,Tennessee Titans,KC,-8.5,44,Arrowhead Stadium,FALSE,33,10,,
+1/6/18,2017,Wildcard,TRUE,Los Angeles Rams,Atlanta Falcons,LAR,-6.5,48,Los Angeles Memorial Coliseum,FALSE,62,3,,
+1/7/18,2017,Wildcard,TRUE,Jacksonville Jaguars,Buffalo Bills,JAX,-8,39.5,EverBank Field,FALSE,53,18,,
+1/7/18,2017,Wildcard,TRUE,New Orleans Saints,Carolina Panthers,NO,-6.5,47.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+1/13/18,2017,Division,TRUE,New England Patriots,Tennessee Titans,NE,-13.5,48.5,Gillette Stadium,FALSE,24,12,,
+1/13/18,2017,Division,TRUE,Philadelphia Eagles,Atlanta Falcons,ATL,-2.5,40,Lincoln Financial Field,FALSE,32,16,,
+1/14/18,2017,Division,TRUE,Minnesota Vikings,New Orleans Saints,MIN,-5.5,46.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+1/14/18,2017,Division,TRUE,Pittsburgh Steelers,Jacksonville Jaguars,PIT,-7,40.5,Heinz Field,FALSE,18,2,,
+1/21/18,2017,Conference,TRUE,New England Patriots,Jacksonville Jaguars,NE,-7.5,46,Gillette Stadium,FALSE,48,2,,
+1/21/18,2017,Conference,TRUE,Philadelphia Eagles,Minnesota Vikings,MIN,-3,39,Lincoln Financial Field,FALSE,46,1,,
+2/4/18,2017,Superbowl,TRUE,New England Patriots,Philadelphia Eagles,NE,-4.5,48.5,U.S. Bank Stadium,TRUE,72,0,,DOME
+9/6/18,2018,1,FALSE,Philadelphia Eagles,Atlanta Falcons,PHI,-1,44.5,Lincoln Financial Field,FALSE,81,8,,Rain
+9/9/18,2018,1,FALSE,Arizona Cardinals,Washington Redskins,ARI,-2,43.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+9/9/18,2018,1,FALSE,Baltimore Ravens,Buffalo Bills,BAL,-7.5,39,M&T Bank Stadium,FALSE,61,12,,Rain
+9/9/18,2018,1,FALSE,Carolina Panthers,Dallas Cowboys,CAR,-2.5,42.5,Bank of America Stadium,FALSE,81,9,,Rain
+9/9/18,2018,1,FALSE,Cleveland Browns,Pittsburgh Steelers,PIT,-3.5,41,FirstEnergy Stadium,FALSE,58,11,,Rain
+9/9/18,2018,1,FALSE,Denver Broncos,Seattle Seahawks,DEN,-3,42.5,Sports Authority Field at Mile High,FALSE,84,5,,
+9/9/18,2018,1,FALSE,Green Bay Packers,Chicago Bears,GB,-6.5,45,Lambeau Field,FALSE,62,10,,
+9/9/18,2018,1,FALSE,Indianapolis Colts,Cincinnati Bengals,CIN,-1,47.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+9/9/18,2018,1,FALSE,Los Angeles Chargers,Kansas City Chiefs,LAC,-3.5,48,StubHub Center,FALSE,84,8,,
+9/9/18,2018,1,FALSE,Miami Dolphins,Tennessee Titans,TEN,-1,43.5,Hard Rock Stadium,FALSE,89,7,,Rain
+9/9/18,2018,1,FALSE,Minnesota Vikings,San Francisco 49ers,MIN,-6,46.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+9/9/18,2018,1,FALSE,New England Patriots,Houston Texans,NE,-6,49.5,Gillette Stadium,FALSE,62,10,,
+9/9/18,2018,1,FALSE,New Orleans Saints,Tampa Bay Buccaneers,NO,-10,50,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+9/9/18,2018,1,FALSE,New York Giants,Jacksonville Jaguars,JAX,-2.5,43,MetLife Stadium,FALSE,59,7,,Rain
+9/10/18,2018,1,FALSE,Detroit Lions,New York Jets,DET,-7,44,Ford Field,FALSE,72,0,,DOME
+9/10/18,2018,1,FALSE,Oakland Raiders,Los Angeles Rams,LAR,-6.5,47.5,Oakland Coliseum,FALSE,69,10,,
+9/13/18,2018,2,FALSE,Cincinnati Bengals,Baltimore Ravens,CIN,-1,43,Paul Brown Stadium,FALSE,82,3,,
+9/16/18,2018,2,FALSE,Atlanta Falcons,Carolina Panthers,ATL,-5.5,44,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+9/16/18,2018,2,FALSE,Buffalo Bills,Los Angeles Chargers,LAC,-7.5,41.5,New Era Field,FALSE,83,6,,
+9/16/18,2018,2,FALSE,Dallas Cowboys,New York Giants,DAL,-3,42,AT&T Stadium,FALSE,72,0,,DOME
+9/16/18,2018,2,FALSE,Denver Broncos,Oakland Raiders,DEN,-5.5,44,Sports Authority Field at Mile High,FALSE,92,4,,
+9/16/18,2018,2,FALSE,Green Bay Packers,Minnesota Vikings,MIN,-2,45,Lambeau Field,FALSE,80,5,,
+9/16/18,2018,2,FALSE,Jacksonville Jaguars,New England Patriots,NE,-2,44.5,EverBank Field,FALSE,97,15,,Rain
+9/16/18,2018,2,FALSE,Los Angeles Rams,Arizona Cardinals,LAR,-13.5,43.5,Los Angeles Memorial Coliseum,FALSE,86,2,,
+9/16/18,2018,2,FALSE,New Orleans Saints,Cleveland Browns,NO,-10,51,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+9/16/18,2018,2,FALSE,New York Jets,Miami Dolphins,NYJ,-3,43,MetLife Stadium,FALSE,80,4,,
+9/16/18,2018,2,FALSE,Pittsburgh Steelers,Kansas City Chiefs,PIT,-4.5,52,Heinz Field,FALSE,80,10,,
+9/16/18,2018,2,FALSE,San Francisco 49ers,Detroit Lions,SF,-6,48.5,Levi's Stadium,FALSE,73,12,,
+9/16/18,2018,2,FALSE,Tampa Bay Buccaneers,Philadelphia Eagles,PHI,-3,46.5,Raymond James Stadium,FALSE,91,9,,
+9/16/18,2018,2,FALSE,Tennessee Titans,Houston Texans,HOU,-3.5,41,Nissan Stadium,FALSE,81,12,,
+9/16/18,2018,2,FALSE,Washington Redskins,Indianapolis Colts,WAS,-6,48,FedEx Field,FALSE,71,5,,
+9/17/18,2018,2,FALSE,Chicago Bears,Seattle Seahawks,CHI,-4.5,42.5,Soldier Field,FALSE,79,2,,
+9/20/18,2018,3,FALSE,Cleveland Browns,New York Jets,CLE,-3,41,FirstEnergy Stadium,FALSE,83,11,,
+9/23/18,2018,3,FALSE,Arizona Cardinals,Chicago Bears,CHI,-5.5,39,University of Phoenix Stadium,FALSE,72,0,,DOME
+9/23/18,2018,3,FALSE,Atlanta Falcons,New Orleans Saints,ATL,-1.5,54,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+9/23/18,2018,3,FALSE,Baltimore Ravens,Denver Broncos,BAL,-5.5,46,M&T Bank Stadium,FALSE,61,5,,Rain
+9/23/18,2018,3,FALSE,Carolina Panthers,Cincinnati Bengals,CAR,-2.5,44,Bank of America Stadium,FALSE,80,3,,
+9/23/18,2018,3,FALSE,Detroit Lions,New England Patriots,NE,-7,55,Ford Field,FALSE,72,0,,DOME
+9/23/18,2018,3,FALSE,Houston Texans,New York Giants,HOU,-6.5,44,NRG Stadium,FALSE,72,0,,DOME
+9/23/18,2018,3,FALSE,Jacksonville Jaguars,Tennessee Titans,JAX,-10,39,TIAA Bank Field,FALSE,89,10,,
+9/23/18,2018,3,FALSE,Kansas City Chiefs,San Francisco 49ers,KC,-5.5,53,Arrowhead Stadium,FALSE,70,4,,
+9/23/18,2018,3,FALSE,Los Angeles Rams,Los Angeles Chargers,LAR,-7.5,49,Los Angeles Memorial Coliseum,FALSE,80,5,,
+9/23/18,2018,3,FALSE,Miami Dolphins,Oakland Raiders,MIA,-3,46,Hard Rock Stadium,FALSE,90,7,,
+9/23/18,2018,3,FALSE,Minnesota Vikings,Buffalo Bills,MIN,-16.5,41,U.S. Bank Stadium,FALSE,72,0,,DOME
+9/23/18,2018,3,FALSE,Philadelphia Eagles,Indianapolis Colts,PHI,-6.5,45.5,Lincoln Financial Field,FALSE,61,5,,Rain
+9/23/18,2018,3,FALSE,Seattle Seahawks,Dallas Cowboys,SEA,-1,40,CenturyLink Field,FALSE,61,4,,
+9/23/18,2018,3,FALSE,Washington Redskins,Green Bay Packers,GB,-2.5,45.5,FedEx Field,FALSE,62,6,,Rain
+9/24/18,2018,3,FALSE,Tampa Bay Buccaneers,Pittsburgh Steelers,PIT,-1,55,Raymond James Stadium,FALSE,77,5,,
+9/27/18,2018,4,FALSE,Los Angeles Rams,Minnesota Vikings,LAR,-7.5,48.5,Los Angeles Memorial Coliseum,FALSE,75,3,,
+9/30/18,2018,4,FALSE,Arizona Cardinals,Seattle Seahawks,SEA,-3.5,40,University of Phoenix Stadium,FALSE,72,0,,DOME
+9/30/18,2018,4,FALSE,Atlanta Falcons,Cincinnati Bengals,ATL,-3.5,52.5,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+9/30/18,2018,4,FALSE,Chicago Bears,Tampa Bay Buccaneers,CHI,-3,46,Soldier Field,FALSE,66,5,,
+9/30/18,2018,4,FALSE,Dallas Cowboys,Detroit Lions,DAL,-2.5,43.5,AT&T Stadium,FALSE,72,0,,DOME
+9/30/18,2018,4,FALSE,Green Bay Packers,Buffalo Bills,GB,-8.5,43.5,Lambeau Field,FALSE,49,9,,
+9/30/18,2018,4,FALSE,Indianapolis Colts,Houston Texans,IND,-1,48,Lucas Oil Stadium,FALSE,72,0,,DOME
+9/30/18,2018,4,FALSE,Jacksonville Jaguars,New York Jets,JAX,-7.5,40.5,TIAA Bank Field,FALSE,86,10,,
+9/30/18,2018,4,FALSE,Los Angeles Chargers,San Francisco 49ers,LAC,-10.5,46,StubHub Center,FALSE,78,9,,
+9/30/18,2018,4,FALSE,New England Patriots,Miami Dolphins,NE,-6.5,50.5,Gillette Stadium,FALSE,65,6,,
+9/30/18,2018,4,FALSE,New York Giants,New Orleans Saints,NO,-3.5,51.5,MetLife Stadium,FALSE,71,7,,
+9/30/18,2018,4,FALSE,Oakland Raiders,Cleveland Browns,OAK,-2.5,44.5,Oakland Coliseum,FALSE,71,8,,
+9/30/18,2018,4,FALSE,Pittsburgh Steelers,Baltimore Ravens,PIT,-3,51,Heinz Field,FALSE,69,2,,
+9/30/18,2018,4,FALSE,Tennessee Titans,Philadelphia Eagles,PHI,-3,41.5,Nissan Stadium,FALSE,80,4,,
+10/1/18,2018,4,FALSE,Denver Broncos,Kansas City Chiefs,KC,-3.5,53.5,Sports Authority Field at Mile High,FALSE,65,5,,
+10/4/18,2018,5,FALSE,New England Patriots,Indianapolis Colts,NE,-10.5,49.5,Gillette Stadium,FALSE,66,6,,
+10/7/18,2018,5,FALSE,Buffalo Bills,Tennessee Titans,TEN,-6,38.5,New Era Field,FALSE,62,8,,
+10/7/18,2018,5,FALSE,Carolina Panthers,New York Giants,CAR,-7,43.5,Bank of America Stadium,FALSE,80,3,,
+10/7/18,2018,5,FALSE,Cincinnati Bengals,Miami Dolphins,CIN,-6.5,47.5,Paul Brown Stadium,FALSE,87,4,,
+10/7/18,2018,5,FALSE,Cleveland Browns,Baltimore Ravens,BAL,-3,44.5,FirstEnergy Stadium,FALSE,72,5,,
+10/7/18,2018,5,FALSE,Detroit Lions,Green Bay Packers,GB,-1,50,Ford Field,FALSE,72,0,,DOME
+10/7/18,2018,5,FALSE,Houston Texans,Dallas Cowboys,HOU,-3.5,45.5,NRG Stadium,FALSE,72,0,,DOME
+10/7/18,2018,5,FALSE,Kansas City Chiefs,Jacksonville Jaguars,KC,-3,48,Arrowhead Stadium,FALSE,58,5,,Rain
+10/7/18,2018,5,FALSE,Los Angeles Chargers,Oakland Raiders,LAC,-5,52,StubHub Center,FALSE,75,10,,
+10/7/18,2018,5,FALSE,New York Jets,Denver Broncos,NYJ,-1,43,MetLife Stadium,FALSE,77,7,,
+10/7/18,2018,5,FALSE,Philadelphia Eagles,Minnesota Vikings,PHI,-3.5,48,Lincoln Financial Field,FALSE,79,6,,
+10/7/18,2018,5,FALSE,Pittsburgh Steelers,Atlanta Falcons,PIT,-3.5,57,Heinz Field,FALSE,83,5,,
+10/7/18,2018,5,FALSE,San Francisco 49ers,Arizona Cardinals,SF,-3,40.5,Levi's Stadium,FALSE,79,15,,
+10/7/18,2018,5,FALSE,Seattle Seahawks,Los Angeles Rams,LAR,-7.5,50.5,CenturyLink Field,FALSE,53,5,,
+10/8/18,2018,5,FALSE,New Orleans Saints,Washington Redskins,NO,-5.5,51.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+10/11/18,2018,6,FALSE,New York Giants,Philadelphia Eagles,PHI,-1.5,45,MetLife Stadium,FALSE,70,3,,Rain
+10/14/18,2018,6,FALSE,Atlanta Falcons,Tampa Bay Buccaneers,ATL,-3,57,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+10/14/18,2018,6,FALSE,Cincinnati Bengals,Pittsburgh Steelers,CIN,-1.5,49.5,Paul Brown Stadium,FALSE,51,6,,
+10/14/18,2018,6,FALSE,Cleveland Browns,Los Angeles Chargers,CLE,-1,47,FirstEnergy Stadium,FALSE,57,12,,
+10/14/18,2018,6,FALSE,Dallas Cowboys,Jacksonville Jaguars,JAX,-3,39,AT&T Stadium,FALSE,72,0,,DOME
+10/14/18,2018,6,FALSE,Denver Broncos,Los Angeles Rams,LAR,-7,50,Sports Authority Field at Mile High,FALSE,25,6,,
+10/14/18,2018,6,FALSE,Houston Texans,Buffalo Bills,HOU,-10.5,40.5,NRG Stadium,FALSE,72,0,,DOME
+10/14/18,2018,6,FALSE,Miami Dolphins,Chicago Bears,CHI,-7.5,40.5,Hard Rock Stadium,FALSE,89,8,,
+10/14/18,2018,6,FALSE,Minnesota Vikings,Arizona Cardinals,MIN,-10,43.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+10/14/18,2018,6,FALSE,New England Patriots,Kansas City Chiefs,NE,-3.5,59.5,Gillette Stadium,FALSE,45,0,,
+10/14/18,2018,6,FALSE,New York Jets,Indianapolis Colts,NYJ,-2.5,47.5,MetLife Stadium,FALSE,60,7,,
+10/14/18,2018,6,FALSE,Oakland Raiders,Seattle Seahawks,SEA,-3,48,Tottenham Stadium,TRUE,50,12,,Rain
+10/14/18,2018,6,FALSE,Tennessee Titans,Baltimore Ravens,BAL,-2.5,43.5,Nissan Stadium,FALSE,66,4,,
+10/14/18,2018,6,FALSE,Washington Redskins,Carolina Panthers,CAR,-1,44.5,FedEx Field,FALSE,52,0,,
+10/15/18,2018,6,FALSE,Green Bay Packers,San Francisco 49ers,GB,-9,46.5,Lambeau Field,FALSE,37,5,,
+10/18/18,2018,7,FALSE,Arizona Cardinals,Denver Broncos,DEN,-1,42.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+10/21/18,2018,7,FALSE,Baltimore Ravens,New Orleans Saints,BAL,-2.5,49,M&T Bank Stadium,FALSE,54,15,,
+10/21/18,2018,7,FALSE,Chicago Bears,New England Patriots,NE,-1,48.5,Soldier Field,FALSE,44,9,,
+10/21/18,2018,7,FALSE,Indianapolis Colts,Buffalo Bills,IND,-7,43.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+10/21/18,2018,7,FALSE,Jacksonville Jaguars,Houston Texans,JAX,-3.5,42.5,TIAA Bank Field,FALSE,68,15,,
+10/21/18,2018,7,FALSE,Kansas City Chiefs,Cincinnati Bengals,KC,-6.5,56,Arrowhead Stadium,FALSE,59,10,,
+10/21/18,2018,7,FALSE,Los Angeles Chargers,Tennessee Titans,LAC,-6.5,46,Wembley Stadium,TRUE,66,6,,
+10/21/18,2018,7,FALSE,Miami Dolphins,Detroit Lions,DET,-3,47,Hard Rock Stadium,FALSE,89,8,,
+10/21/18,2018,7,FALSE,New York Jets,Minnesota Vikings,MIN,-3.5,45,MetLife Stadium,FALSE,46,16,,
+10/21/18,2018,7,FALSE,Philadelphia Eagles,Carolina Panthers,PHI,-5,45,Lincoln Financial Field,FALSE,49,19,,
+10/21/18,2018,7,FALSE,San Francisco 49ers,Los Angeles Rams,LAR,-8,52,Levi's Stadium,FALSE,62,5,,
+10/21/18,2018,7,FALSE,Tampa Bay Buccaneers,Cleveland Browns,TB,-3.5,52.5,Raymond James Stadium,FALSE,79,7,,
+10/21/18,2018,7,FALSE,Washington Redskins,Dallas Cowboys,DAL,-1,40.5,FedEx Field,FALSE,52,12,,
+10/22/18,2018,7,FALSE,Atlanta Falcons,New York Giants,ATL,-4,53,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+10/25/18,2018,8,FALSE,Houston Texans,Miami Dolphins,HOU,-7.5,45,NRG Stadium,FALSE,72,0,,DOME
+10/28/18,2018,8,FALSE,Arizona Cardinals,San Francisco 49ers,ARI,-2.5,40,University of Phoenix Stadium,FALSE,72,0,,DOME
+10/28/18,2018,8,FALSE,Carolina Panthers,Baltimore Ravens,BAL,-2.5,44,Bank of America Stadium,FALSE,61,10,,
+10/28/18,2018,8,FALSE,Chicago Bears,New York Jets,CHI,-8.5,42.5,Soldier Field,FALSE,48,18,,
+10/28/18,2018,8,FALSE,Cincinnati Bengals,Tampa Bay Buccaneers,CIN,-3.5,55,Paul Brown Stadium,FALSE,55,7,,
+10/28/18,2018,8,FALSE,Detroit Lions,Seattle Seahawks,DET,-3,48,Ford Field,FALSE,72,0,,DOME
+10/28/18,2018,8,FALSE,Jacksonville Jaguars,Philadelphia Eagles,PHI,-3.5,44,Wembley Stadium,TRUE,48,12,,
+10/28/18,2018,8,FALSE,Kansas City Chiefs,Denver Broncos,KC,-8.5,53,Arrowhead Stadium,FALSE,56,12,,
+10/28/18,2018,8,FALSE,Los Angeles Rams,Green Bay Packers,LAR,-7.5,57,Los Angeles Memorial Coliseum,FALSE,82,1,,
+10/28/18,2018,8,FALSE,Minnesota Vikings,New Orleans Saints,MIN,-2.5,53.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+10/28/18,2018,8,FALSE,New York Giants,Washington Redskins,WAS,-1,44,MetLife Stadium,FALSE,51,11,,
+10/28/18,2018,8,FALSE,Oakland Raiders,Indianapolis Colts,IND,-3.5,51,Oakland Coliseum,FALSE,69,8,,
+10/28/18,2018,8,FALSE,Pittsburgh Steelers,Cleveland Browns,PIT,-8.5,47.5,Heinz Field,FALSE,47,11,,
+10/29/18,2018,8,FALSE,Buffalo Bills,New England Patriots,NE,-13.5,44.5,New Era Field,FALSE,46,16,,
+11/1/18,2018,9,FALSE,San Francisco 49ers,Oakland Raiders,OAK,-1.5,44,Levi's Stadium,FALSE,82,8,,
+11/4/18,2018,9,FALSE,Baltimore Ravens,Pittsburgh Steelers,BAL,-1.5,46.5,M&T Bank Stadium,FALSE,55,6,,
+11/4/18,2018,9,FALSE,Buffalo Bills,Chicago Bears,CHI,-10.5,38,New Era Field,FALSE,49,12,,
+11/4/18,2018,9,FALSE,Carolina Panthers,Tampa Bay Buccaneers,CAR,-6,55.5,Bank of America Stadium,FALSE,62,8,,
+11/4/18,2018,9,FALSE,Cleveland Browns,Kansas City Chiefs,KC,-7.5,51.5,FirstEnergy Stadium,FALSE,53,16,,
+11/4/18,2018,9,FALSE,Denver Broncos,Houston Texans,DEN,-1,46.5,Sports Authority Field at Mile High,FALSE,53,3,,
+11/4/18,2018,9,FALSE,Miami Dolphins,New York Jets,MIA,-3,43,Hard Rock Stadium,FALSE,87,16,,
+11/4/18,2018,9,FALSE,Minnesota Vikings,Detroit Lions,MIN,-4.5,47.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+11/4/18,2018,9,FALSE,New England Patriots,Green Bay Packers,NE,-5,56,Gillette Stadium,FALSE,40,2,,
+11/4/18,2018,9,FALSE,New Orleans Saints,Los Angeles Rams,LAR,-1.5,57,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+11/4/18,2018,9,FALSE,Seattle Seahawks,Los Angeles Chargers,SEA,-1,48,CenturyLink Field,FALSE,56,4,,Rain
+11/4/18,2018,9,FALSE,Washington Redskins,Atlanta Falcons,WAS,-1.5,46.5,FedEx Field,FALSE,55,5,,
+11/5/18,2018,9,FALSE,Dallas Cowboys,Tennessee Titans,DAL,-4.5,40.5,AT&T Stadium,FALSE,72,0,,DOME
+11/8/18,2018,10,FALSE,Pittsburgh Steelers,Carolina Panthers,PIT,-3.5,51,Heinz Field,FALSE,40,4,,
+11/11/18,2018,10,FALSE,Chicago Bears,Detroit Lions,CHI,-7.5,44.5,Soldier Field,FALSE,37,12,,
+11/11/18,2018,10,FALSE,Cincinnati Bengals,New Orleans Saints,NO,-6,53.5,Paul Brown Stadium,FALSE,39,6,,
+11/11/18,2018,10,FALSE,Cleveland Browns,Atlanta Falcons,ATL,-5.5,49.5,FirstEnergy Stadium,FALSE,36,9,,
+11/11/18,2018,10,FALSE,Green Bay Packers,Miami Dolphins,GB,-11,48.5,Lambeau Field,FALSE,33,6,,
+11/11/18,2018,10,FALSE,Indianapolis Colts,Jacksonville Jaguars,IND,-3,48,Lucas Oil Stadium,FALSE,72,0,,DOME
+11/11/18,2018,10,FALSE,Kansas City Chiefs,Arizona Cardinals,KC,-16.5,49.5,Arrowhead Stadium,FALSE,43,5,,
+11/11/18,2018,10,FALSE,Los Angeles Rams,Seattle Seahawks,LAR,-10,51,Los Angeles Memorial Coliseum,FALSE,75,1,,
+11/11/18,2018,10,FALSE,New York Jets,Buffalo Bills,NYJ,-7,38,MetLife Stadium,FALSE,46,10,,
+11/11/18,2018,10,FALSE,Oakland Raiders,Los Angeles Chargers,LAC,-10.5,50,Oakland Coliseum,FALSE,69,16,,
+11/11/18,2018,10,FALSE,Philadelphia Eagles,Dallas Cowboys,PHI,-7.5,45.5,Lincoln Financial Field,FALSE,38,5,,
+11/11/18,2018,10,FALSE,Tampa Bay Buccaneers,Washington Redskins,TB,-3.5,51,Raymond James Stadium,FALSE,82,3,,
+11/11/18,2018,10,FALSE,Tennessee Titans,New England Patriots,NE,-6.5,47,Nissan Stadium,FALSE,46,4,,
+11/12/18,2018,10,FALSE,San Francisco 49ers,New York Giants,SF,-3,45,Levi's Stadium,FALSE,62,0,,
+11/15/18,2018,11,FALSE,Seattle Seahawks,Green Bay Packers,SEA,-3,49,CenturyLink Field,FALSE,54,6,,
+11/18/18,2018,11,FALSE,Arizona Cardinals,Oakland Raiders,ARI,-4.5,41,University of Phoenix Stadium,FALSE,72,0,,DOME
+11/18/18,2018,11,FALSE,Atlanta Falcons,Dallas Cowboys,ATL,-3.5,50,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+11/18/18,2018,11,FALSE,Baltimore Ravens,Cincinnati Bengals,BAL,-6.5,44,M&T Bank Stadium,FALSE,48,8,,
+11/18/18,2018,11,FALSE,Chicago Bears,Minnesota Vikings,CHI,-2.5,44,Soldier Field,FALSE,33,6,,
+11/18/18,2018,11,FALSE,Detroit Lions,Carolina Panthers,CAR,-4,48,Ford Field,FALSE,72,0,,DOME
+11/18/18,2018,11,FALSE,Indianapolis Colts,Tennessee Titans,IND,-1,50,Lucas Oil Stadium,FALSE,72,0,,DOME
+11/18/18,2018,11,FALSE,Jacksonville Jaguars,Pittsburgh Steelers,PIT,-4,47,TIAA Bank Field,FALSE,73,8,,
+11/18/18,2018,11,FALSE,Los Angeles Chargers,Denver Broncos,LAC,-7.5,46.5,StubHub Center,FALSE,69,4,,
+11/18/18,2018,11,FALSE,New Orleans Saints,Philadelphia Eagles,NO,-7,56.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+11/18/18,2018,11,FALSE,New York Giants,Tampa Bay Buccaneers,NYG,-3,53.5,MetLife Stadium,FALSE,42,1,,
+11/18/18,2018,11,FALSE,Washington Redskins,Houston Texans,HOU,-3,40.5,FedEx Field,FALSE,48,6,,
+11/19/18,2018,11,FALSE,Los Angeles Rams,Kansas City Chiefs,LAR,-3,63.5,Los Angeles Memorial Coliseum,FALSE,69,1,,
+11/22/18,2018,12,FALSE,Dallas Cowboys,Washington Redskins,DAL,-7,40,AT&T Stadium,FALSE,72,0,,DOME
+11/22/18,2018,12,FALSE,Detroit Lions,Chicago Bears,CHI,-3,43,Ford Field,FALSE,72,0,,DOME
+11/22/18,2018,12,FALSE,New Orleans Saints,Atlanta Falcons,NO,-11.5,61.5,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+11/25/18,2018,12,FALSE,Baltimore Ravens,Oakland Raiders,BAL,-13,42,M&T Bank Stadium,FALSE,60,7,,
+11/25/18,2018,12,FALSE,Buffalo Bills,Jacksonville Jaguars,JAX,-3,36.5,New Era Field,FALSE,44,12,,
+11/25/18,2018,12,FALSE,Carolina Panthers,Seattle Seahawks,CAR,-3,46.5,Bank of America Stadium,FALSE,57,1,,
+11/25/18,2018,12,FALSE,Cincinnati Bengals,Cleveland Browns,CLE,-1,46.5,Paul Brown Stadium,FALSE,44,4,,
+11/25/18,2018,12,FALSE,Denver Broncos,Pittsburgh Steelers,PIT,-3,47.5,Sports Authority Field at Mile High,FALSE,41,7,,
+11/25/18,2018,12,FALSE,Indianapolis Colts,Miami Dolphins,IND,-9,52.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+11/25/18,2018,12,FALSE,Los Angeles Chargers,Arizona Cardinals,LAC,-14,43,StubHub Center,FALSE,74,3,,
+11/25/18,2018,12,FALSE,Minnesota Vikings,Green Bay Packers,MIN,-3.5,48,U.S. Bank Stadium,FALSE,72,0,,DOME
+11/25/18,2018,12,FALSE,New York Jets,New England Patriots,NE,-13,46.5,MetLife Stadium,FALSE,54,8,,
+11/25/18,2018,12,FALSE,Philadelphia Eagles,New York Giants,PHI,-4.5,49,Lincoln Financial Field,FALSE,56,10,,
+11/25/18,2018,12,FALSE,Tampa Bay Buccaneers,San Francisco 49ers,TB,-1.5,54.5,Raymond James Stadium,FALSE,77,7,,
+11/26/18,2018,12,FALSE,Houston Texans,Tennessee Titans,HOU,-3.5,42.5,NRG Stadium,FALSE,72,0,,DOME
+11/29/18,2018,13,FALSE,Dallas Cowboys,New Orleans Saints,NO,-7.5,51.5,AT&T Stadium,FALSE,72,0,,DOME
+12/2/18,2018,13,FALSE,Atlanta Falcons,Baltimore Ravens,ATL,-2.5,46.5,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+12/2/18,2018,13,FALSE,Cincinnati Bengals,Denver Broncos,DEN,-4,45,Paul Brown Stadium,FALSE,63,12,,
+12/2/18,2018,13,FALSE,Detroit Lions,Los Angeles Rams,LAR,-10.5,54,Ford Field,FALSE,72,0,,DOME
+12/2/18,2018,13,FALSE,Green Bay Packers,Arizona Cardinals,GB,-13.5,41,Lambeau Field,FALSE,34,20,,Rain
+12/2/18,2018,13,FALSE,Houston Texans,Cleveland Browns,HOU,-5,47.5,NRG Stadium,FALSE,72,0,,DOME
+12/2/18,2018,13,FALSE,Jacksonville Jaguars,Indianapolis Colts,IND,-4,45.5,TIAA Bank Field,FALSE,78,13,,Rain
+12/2/18,2018,13,FALSE,Miami Dolphins,Buffalo Bills,MIA,-3.5,40,Hard Rock Stadium,FALSE,86,15,,
+12/2/18,2018,13,FALSE,New England Patriots,Minnesota Vikings,NE,-6,49.5,Gillette Stadium,FALSE,53,6,,
+12/2/18,2018,13,FALSE,New York Giants,Chicago Bears,CHI,-4,44,MetLife Stadium,FALSE,52,3,,Fog
+12/2/18,2018,13,FALSE,Oakland Raiders,Kansas City Chiefs,KC,-14,53.5,Oakland Coliseum,FALSE,57,6,,
+12/2/18,2018,13,FALSE,Pittsburgh Steelers,Los Angeles Chargers,PIT,-3,52.5,Heinz Field,FALSE,57,8,,
+12/2/18,2018,13,FALSE,Seattle Seahawks,San Francisco 49ers,SEA,-10,45.5,CenturyLink Field,FALSE,45,2,,
+12/2/18,2018,13,FALSE,Tampa Bay Buccaneers,Carolina Panthers,CAR,-3.5,52,Raymond James Stadium,FALSE,81,15,,
+12/2/18,2018,13,FALSE,Tennessee Titans,New York Jets,TEN,-10.5,40.5,Nissan Stadium,FALSE,70,13,,
+12/3/18,2018,13,FALSE,Philadelphia Eagles,Washington Redskins,PHI,-5.5,45,Lincoln Financial Field,FALSE,36,15,,
+12/6/18,2018,14,FALSE,Tennessee Titans,Jacksonville Jaguars,TEN,-5.5,37.5,Nissan Stadium,FALSE,44,5,,
+12/9/18,2018,14,FALSE,Arizona Cardinals,Detroit Lions,DET,-2.5,40.5,University of Phoenix Stadium,FALSE,72,0,,DOME
+12/9/18,2018,14,FALSE,Buffalo Bills,New York Jets,BUF,-4.5,37,New Era Field,FALSE,31,12,,
+12/9/18,2018,14,FALSE,Chicago Bears,Los Angeles Rams,LAR,-3,51,Soldier Field,FALSE,29,4,,
+12/9/18,2018,14,FALSE,Cleveland Browns,Carolina Panthers,CAR,-1,47.5,FirstEnergy Stadium,FALSE,28,4,,
+12/9/18,2018,14,FALSE,Dallas Cowboys,Philadelphia Eagles,DAL,-3.5,45.5,AT&T Stadium,FALSE,72,0,,DOME
+12/9/18,2018,14,FALSE,Green Bay Packers,Atlanta Falcons,GB,-4,50.5,Lambeau Field,FALSE,25,10,,
+12/9/18,2018,14,FALSE,Houston Texans,Indianapolis Colts,HOU,-4,49,NRG Stadium,FALSE,72,0,,DOME
+12/9/18,2018,14,FALSE,Kansas City Chiefs,Baltimore Ravens,KC,-6.5,48.5,Arrowhead Stadium,FALSE,27,0,,
+12/9/18,2018,14,FALSE,Los Angeles Chargers,Cincinnati Bengals,LAC,-17,48.5,StubHub Center,FALSE,70,1,,
+12/9/18,2018,14,FALSE,Miami Dolphins,New England Patriots,NE,-9.5,49.5,Hard Rock Stadium,FALSE,82,13,,
+12/9/18,2018,14,FALSE,Oakland Raiders,Pittsburgh Steelers,PIT,-10.5,51,Oakland Coliseum,FALSE,55,8,,
+12/9/18,2018,14,FALSE,San Francisco 49ers,Denver Broncos,DEN,-3,45.5,Levi's Stadium,FALSE,54,3,,
+12/9/18,2018,14,FALSE,Tampa Bay Buccaneers,New Orleans Saints,NO,-10,54,Raymond James Stadium,FALSE,71,7,,Rain
+12/9/18,2018,14,FALSE,Washington Redskins,New York Giants,NYG,-3,40.5,FedEx Field,FALSE,33,6,,
+12/10/18,2018,14,FALSE,Seattle Seahawks,Minnesota Vikings,SEA,-3,45.5,CenturyLink Field,FALSE,48,9,,
+12/13/18,2018,15,FALSE,Kansas City Chiefs,Los Angeles Chargers,KC,-3.5,54,Arrowhead Stadium,FALSE,39,5,,Rain
+12/15/18,2018,15,FALSE,Denver Broncos,Cleveland Browns,DEN,-1,47,Sports Authority Field at Mile High,FALSE,46,0,,
+12/15/18,2018,15,FALSE,New York Jets,Houston Texans,HOU,-7,44,MetLife Stadium,FALSE,51,8,,Rain
+12/16/18,2018,15,FALSE,Atlanta Falcons,Arizona Cardinals,ATL,-10,43.5,Mercedes-Benz Stadium,FALSE,72,0,,DOME
+12/16/18,2018,15,FALSE,Baltimore Ravens,Tampa Bay Buccaneers,BAL,-8.5,45,M&T Bank Stadium,FALSE,43,10,,Rain
+12/16/18,2018,15,FALSE,Buffalo Bills,Detroit Lions,BUF,-2.5,40,New Era Field,FALSE,39,7,,Rain
+12/16/18,2018,15,FALSE,Chicago Bears,Green Bay Packers,CHI,-5.5,46.5,Soldier Field,FALSE,45,10,,
+12/16/18,2018,15,FALSE,Cincinnati Bengals,Oakland Raiders,CIN,-3,46,Paul Brown Stadium,FALSE,43,2,,
+12/16/18,2018,15,FALSE,Indianapolis Colts,Dallas Cowboys,IND,-3,46.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+12/16/18,2018,15,FALSE,Jacksonville Jaguars,Washington Redskins,JAX,-7.5,36.5,TIAA Bank Field,FALSE,64,12,,
+12/16/18,2018,15,FALSE,Los Angeles Rams,Philadelphia Eagles,LAR,-13.5,52.5,Los Angeles Memorial Coliseum,FALSE,60,5,,
+12/16/18,2018,15,FALSE,Minnesota Vikings,Miami Dolphins,MIN,-7.5,45,U.S. Bank Stadium,FALSE,72,0,,DOME
+12/16/18,2018,15,FALSE,New York Giants,Tennessee Titans,TEN,-2.5,42,MetLife Stadium,FALSE,40,6,,Rain
+12/16/18,2018,15,FALSE,Pittsburgh Steelers,New England Patriots,NE,-2.5,56,Heinz Field,FALSE,42,5,,
+12/16/18,2018,15,FALSE,San Francisco 49ers,Seattle Seahawks,SEA,-3.5,44,Levi's Stadium,FALSE,61,11,,
+12/17/18,2018,15,FALSE,Carolina Panthers,New Orleans Saints,NO,-6,50.5,Bank of America Stadium,FALSE,48,3,,
+12/22/18,2018,16,FALSE,Los Angeles Chargers,Baltimore Ravens,LAC,-4,42.5,StubHub Center,FALSE,60,5,,
+12/22/18,2018,16,FALSE,Tennessee Titans,Washington Redskins,TEN,-11.5,37.5,Nissan Stadium,FALSE,51,9,,
+12/23/18,2018,16,FALSE,Arizona Cardinals,Los Angeles Rams,LAR,-14.5,43,University of Phoenix Stadium,FALSE,72,0,,DOME
+12/23/18,2018,16,FALSE,Carolina Panthers,Atlanta Falcons,ATL,-3,46,Bank of America Stadium,FALSE,52,7,,
+12/23/18,2018,16,FALSE,Cleveland Browns,Cincinnati Bengals,CLE,-10,44,FirstEnergy Stadium,FALSE,37,9,,
+12/23/18,2018,16,FALSE,Dallas Cowboys,Tampa Bay Buccaneers,DAL,-7.5,48,AT&T Stadium,FALSE,72,0,,DOME
+12/23/18,2018,16,FALSE,Detroit Lions,Minnesota Vikings,MIN,-6.5,42.5,Ford Field,FALSE,72,0,,DOME
+12/23/18,2018,16,FALSE,Indianapolis Colts,New York Giants,IND,-10,48.5,Lucas Oil Stadium,FALSE,72,0,,DOME
+12/23/18,2018,16,FALSE,Miami Dolphins,Jacksonville Jaguars,MIA,-3,39.5,Hard Rock Stadium,FALSE,73,9,,
+12/23/18,2018,16,FALSE,New England Patriots,Buffalo Bills,NE,-13.5,45,Gillette Stadium,FALSE,40,12,,
+12/23/18,2018,16,FALSE,New Orleans Saints,Pittsburgh Steelers,NO,-6.5,53,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+12/23/18,2018,16,FALSE,New York Jets,Green Bay Packers,GB,-3,47.5,MetLife Stadium,FALSE,43,8,,
+12/23/18,2018,16,FALSE,Philadelphia Eagles,Houston Texans,PHI,-1,46.5,Lincoln Financial Field,FALSE,44,5,,
+12/23/18,2018,16,FALSE,San Francisco 49ers,Chicago Bears,CHI,-4,44,Levi's Stadium,FALSE,50,5,,
+12/23/18,2018,16,FALSE,Seattle Seahawks,Kansas City Chiefs,KC,-1,54.5,CenturyLink Field,FALSE,43,8,,
+12/24/18,2018,16,FALSE,Oakland Raiders,Denver Broncos,DEN,-2.5,42.5,Oakland Coliseum,FALSE,58,14,,Rain
+12/30/18,2018,17,FALSE,Baltimore Ravens,Cleveland Browns,BAL,-7,41,M&T Bank Stadium,FALSE,48,2,,
+12/30/18,2018,17,FALSE,Buffalo Bills,Miami Dolphins,BUF,-5.5,39.5,New Era Field,FALSE,33,9,,
+12/30/18,2018,17,FALSE,Denver Broncos,Los Angeles Chargers,LAC,-7,43.5,Sports Authority Field at Mile High,FALSE,51,6,,
+12/30/18,2018,17,FALSE,Green Bay Packers,Detroit Lions,GB,-7.5,44.5,Lambeau Field,FALSE,26,15,,
+12/30/18,2018,17,FALSE,Houston Texans,Jacksonville Jaguars,HOU,-7,39.5,NRG Stadium,FALSE,72,0,,DOME
+12/30/18,2018,17,FALSE,Kansas City Chiefs,Oakland Raiders,KC,-14.5,52.5,Arrowhead Stadium,FALSE,45,15,,
+12/30/18,2018,17,FALSE,Los Angeles Rams,San Francisco 49ers,LAR,-10.5,49.5,Los Angeles Memorial Coliseum,FALSE,65,3,,
+12/30/18,2018,17,FALSE,Minnesota Vikings,Chicago Bears,MIN,-6,40.5,U.S. Bank Stadium,FALSE,72,0,,DOME
+12/30/18,2018,17,FALSE,New England Patriots,New York Jets,NE,-14.5,46.5,Gillette Stadium,FALSE,33,2,,
+12/30/18,2018,17,FALSE,New Orleans Saints,Carolina Panthers,NO,-8,42,Mercedes-Benz Superdome,FALSE,72,0,,DOME
+12/30/18,2018,17,FALSE,New York Giants,Dallas Cowboys,NYG,-7.5,38.5,MetLife Stadium,FALSE,37,2,,
+12/30/18,2018,17,FALSE,Pittsburgh Steelers,Cincinnati Bengals,PIT,-14,45,Heinz Field,FALSE,42,9,,
+12/30/18,2018,17,FALSE,Seattle Seahawks,Arizona Cardinals,SEA,-14,39.5,CenturyLink Field,FALSE,45,5,,
+12/30/18,2018,17,FALSE,Tampa Bay Buccaneers,Atlanta Falcons,ATL,-2.5,51.5,Raymond James Stadium,FALSE,80,5,,
+12/30/18,2018,17,FALSE,Tennessee Titans,Indianapolis Colts,IND,-5.5,42.5,Nissan Stadium,FALSE,53,4,,
+12/30/18,2018,17,FALSE,Washington Redskins,Philadelphia Eagles,PHI,-6,42.5,FedEx Field,FALSE,46,3,,
