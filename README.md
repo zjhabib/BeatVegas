@@ -1,5 +1,4 @@
-# Final-Project-Zane-Habib
-Final Project
+# BeatVegas
 
 ## Sports-betting Industry
 
