@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/n11Rtow.jpg" style="float: margin: 20px; height: 55px"></p>
+
 # BeatVegas
 
 ## Sports-betting Industry
