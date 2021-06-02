@@ -4,7 +4,7 @@
 
 ## Sports-betting Industry
 
-> The gambling industry has been ever-growing ever since legal sportsbetting came to fruition. One type of bet that many people take is a proposition bet, meaning how likely or not is this proposed bet going to hit. The proposition bet I am going to target specifically is how likely is it that Player X will cover the proposed QB bet (completions) and what variables that we know beforehand like spread, over/under, weather make an impact. I have found a data set on kaggle that provides historical betting information on each game. I then merged prop bet information on those specific games.
+> The gambling industry has been ever-growing since legal sportsbetting came to fruition. One type of bet that many people take is a proposition bet, meaning how likely or not is this proposed bet going to hit. The proposition bet I am going to target specifically is how likely is it that Player X will cover the proposed QB bet (completions) and what variables that we know beforehand like spread, over/under, weather make an impact. I have found a data set on kaggle that provides historical betting information on each game. I then merged prop bet information on those specific games.
 
 **Possible Areas to Examine**
 
